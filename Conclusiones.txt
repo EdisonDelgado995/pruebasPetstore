@@ -1,0 +1,3 @@
+CONCLUSIONES:
+* Se evidencia que los métodos POST, GET, PUT, DELETE funcionan correctamente en la aplicación petstore.swagger.io
+* Las pruebas ejecutadas pueden complementarse con la creación de escenarios E2E en las cuales se relacionen no sólo los usuarios, sino también las mascotas y el inventario.
